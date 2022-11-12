@@ -1,0 +1,86 @@
+[2022-11-12 21:54:24.296] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 21:54:24.296] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 21:54:24.296] [modengine] [info] Main thread ID: 46692
+[2022-11-12 21:54:24.300] [modengine] [info] Enabling extension base
+[2022-11-12 21:54:24.300] [modengine] [info] Enabled extension base
+[2022-11-12 21:54:24.300] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 21:54:24.300] [modengine] [info] Installing mod location randomizer
+[2022-11-12 21:54:24.300] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 21:54:24.300] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 21:54:24.353] [modengine] [info] Applied 3 hooks
+[2022-11-12 21:54:24.355] [modengine] [info] Starting worker thread
+[2022-11-12 21:58:13.444] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 21:58:13.444] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 21:58:13.444] [modengine] [info] Main thread ID: 40496
+[2022-11-12 21:58:13.446] [modengine] [info] Enabling extension base
+[2022-11-12 21:58:13.446] [modengine] [info] Enabled extension base
+[2022-11-12 21:58:13.446] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 21:58:13.446] [modengine] [info] Installing mod location randomizer
+[2022-11-12 21:58:13.446] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 21:58:13.446] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 21:58:13.504] [modengine] [info] Applied 3 hooks
+[2022-11-12 21:58:13.506] [modengine] [info] Starting worker thread
+[2022-11-12 22:07:30.248] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 22:07:30.248] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 22:07:30.248] [modengine] [info] Main thread ID: 25704
+[2022-11-12 22:07:30.250] [modengine] [info] Enabling extension base
+[2022-11-12 22:07:30.250] [modengine] [info] Enabled extension base
+[2022-11-12 22:07:30.250] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 22:07:30.250] [modengine] [info] Installing mod location randomizer
+[2022-11-12 22:07:30.250] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 22:07:30.250] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 22:07:30.302] [modengine] [info] Applied 3 hooks
+[2022-11-12 22:07:30.303] [modengine] [info] Starting worker thread
+[2022-11-12 22:11:56.733] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 22:11:56.733] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 22:11:56.733] [modengine] [info] Main thread ID: 45092
+[2022-11-12 22:11:56.735] [modengine] [info] Enabling extension base
+[2022-11-12 22:11:56.735] [modengine] [info] Enabled extension base
+[2022-11-12 22:11:56.735] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 22:11:56.735] [modengine] [info] Installing mod location randomizer
+[2022-11-12 22:11:56.735] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 22:11:56.735] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 22:11:56.843] [modengine] [info] Applied 3 hooks
+[2022-11-12 22:11:56.847] [modengine] [info] Starting worker thread
+[2022-11-12 22:11:56.992] [modengine] [info] Destroying
+[2022-11-12 22:11:56.992] [modengine] [info] Destroying
+[2022-11-12 22:11:56.992] [modengine] [info] Destroying
+[2022-11-12 22:11:56.992] [modengine] [info] Destroying
+[2022-11-12 22:11:56.992] [modengine] [info] Destroying
+[2022-11-12 22:11:56.993] [modengine] [info] Destroying
+[2022-11-12 22:11:56.993] [modengine] [info] Destroying
+[2022-11-12 22:11:56.993] [modengine] [info] Destroying
+[2022-11-12 22:11:56.993] [modengine] [info] Destroying
+[2022-11-12 22:11:56.993] [modengine] [info] Destroying
+[2022-11-12 22:13:04.027] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 22:13:04.028] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 22:13:04.028] [modengine] [info] Main thread ID: 41724
+[2022-11-12 22:13:04.029] [modengine] [info] Enabling extension base
+[2022-11-12 22:13:04.029] [modengine] [info] Enabled extension base
+[2022-11-12 22:13:04.029] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 22:13:04.029] [modengine] [info] Installing mod location randomizer
+[2022-11-12 22:13:04.029] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 22:13:04.029] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 22:13:04.095] [modengine] [info] Applied 3 hooks
+[2022-11-12 22:13:04.096] [modengine] [info] Starting worker thread
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:04.208] [modengine] [info] Destroying
+[2022-11-12 22:13:29.890] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-11-12 22:13:29.890] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-11-12 22:13:29.890] [modengine] [info] Main thread ID: 45184
+[2022-11-12 22:13:29.892] [modengine] [info] Enabling extension base
+[2022-11-12 22:13:29.892] [modengine] [info] Enabled extension base
+[2022-11-12 22:13:29.892] [modengine] [info] Enabling extension mod_loader
+[2022-11-12 22:13:29.892] [modengine] [info] Installing mod location randomizer
+[2022-11-12 22:13:29.892] [modengine] [info] Resolved mod path to C:\Users\Adamh\OneDrive\Skrivebord\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-11-12 22:13:29.892] [modengine] [info] Enabled extension mod_loader
+[2022-11-12 22:13:29.952] [modengine] [info] Applied 3 hooks
+[2022-11-12 22:13:29.955] [modengine] [info] Starting worker thread

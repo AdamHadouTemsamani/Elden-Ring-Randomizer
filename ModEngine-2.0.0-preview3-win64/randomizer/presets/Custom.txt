@@ -1,0 +1,39 @@
+Classes:
+  Basic:
+    EnemyMultiplier: 2
+    Pools:
+    - Weight: 1000
+      Pool: default
+  Boss:
+    EnemyMultiplier: 2
+    Pools:
+    - Weight: 1000
+      Pool: default
+  MinorBoss:
+    InheritParent: true
+    Pools:
+    - Weight: 1000
+      Pool: default
+  Miniboss:
+    InheritParent: true
+    Pools:
+    - Weight: 1000
+      Pool: default
+  NightMiniboss:
+    InheritParent: true
+  DragonMiniboss:
+    InheritParent: true
+    Pools:
+    - Weight: 1000
+      Pool: default
+  Evergaol:
+    InheritParent: true
+  Wildlife:
+    InheritParent: true
+    Pools:
+    - Weight: 1000
+      Pool: default
+  HostileNPC: {}
+  Scarab: {}
+EnemyMultiplier: 2
+DontRandomize: AllEnemies
